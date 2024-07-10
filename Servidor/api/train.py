@@ -32,9 +32,9 @@ def preprocess_text(text):
     return text
 
 
-# Corpus de documentos existentes
 # Leer el archivo CSV en un DataFrame
-df = pd.read_csv('/AsistenteVirtual/backend/Servidor/api/train.csv', sep=';', encoding='utf-8')
+df = pd.read_csv('backend-avi/Servidor/api/train.csv', sep=';', encoding='utf-8')
+
 
 # Acceder a los textos y etiquetas
 textos = df['Textos'].tolist()

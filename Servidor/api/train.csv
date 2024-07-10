@@ -1,13 +1,588 @@
 Textos;Etiquetas
-Hoy experimentamos una interrupción del servicio de Internet que afectó a toda la oficina. A pesar de los intentos de reiniciar el enrutador, la conexión seguía siendo intermitente. Se contactó al proveedor de servicios y se está investigando la causa del problema.;Problemas de conectividad
-Durante una videoconferencia importante con un cliente, varios miembros del equipo experimentaron caídas constantes en la conexión. Esto resultó en una comunicación ineficaz y retrasó la finalización del proyecto. Se necesita una solución rápida para evitar problemas similares en el futuro.;Problemas de conectividad
-Los empleados en el área de ventas están reportando dificultades para acceder al sistema CRM desde sus dispositivos móviles cuando están fuera de la oficina. Esta falta de acceso está obstaculizando su capacidad para ingresar datos actualizados sobre clientes y oportunidades de venta.;Problemas de conectividad
-Uno de los equipos de diseño informó que sus computadoras comenzaron a mostrar pantallas azules de forma intermitente. Esto está afectando su productividad, ya que pierden progreso en proyectos importantes cada vez que ocurre un fallo. Se necesita asistencia técnica urgente.;Problemas de hardware
-El teclado de varias estaciones de trabajo en el departamento de contabilidad está experimentando problemas con algunas teclas que no responden. Esto está causando retrasos en la entrada de datos y está afectando negativamente la eficiencia del equipo."; Problemas de hardware
-El proyector en la sala de conferencias principal ha dejado de funcionar justo antes de una importante presentación para inversores. Los intentos de solucionar el problema localmente no tuvieron éxito. Se requiere un técnico para diagnosticar y reparar el proyector lo antes posible.;Problemas de hardware
-Recientemente, varias estaciones de trabajo en el departamento de recursos humanos experimentaron un error de sistema que resultó en la pérdida de datos importantes de los empleados. Se está investigando la causa raíz del problema y se están tomando medidas para evitar futuras pérdidas de datos.;Problemas de software
-Después de una actualización de software, algunos usuarios informaron que no pueden acceder a ciertas funciones dentro del sistema de gestión de proyectos. Esto está obstaculizando la colaboración entre equipos y ralentizando el progreso del proyecto.;Problemas de software
-El software de contabilidad utilizado por el departamento financiero ha estado experimentando problemas de rendimiento, lo que ha llevado a retrasos en la generación de informes financieros mensuales. Se está trabajando con el proveedor del software para identificar y solucionar los problemas lo antes posible.;Problemas de software
-Varios empleados informaron que no pueden acceder a sus cuentas de correo electrónico debido a un problema de autenticación. Esto está afectando la comunicación interna y externa, lo que resulta en una menor eficiencia en la colaboración entre equipos y con los clientes.;Otros problemas de soporte de TIC
-El sistema de tickets de soporte técnico ha experimentado un mal funcionamiento, lo que ha llevado a retrasos en la resolución de problemas informados por los usuarios. Se necesita una solución rápida para evitar una acumulación de solicitudes pendientes.;Otros problemas de soporte de TIC
-Algunos empleados han notado que sus dispositivos móviles corporativos están experimentando un agotamiento rápido de la batería desde la última actualización del sistema operativo. Se necesita una solución para optimizar el consumo de batería y minimizar el impacto en la productividad del personal.;Otros problemas de soporte de TIC
+anulación matriculas;Soporte
+asistencia ingresar dedicción docente;Desarrollo de Software
+revisión proyectores;Soporte
+reseteo clave correo;Soporte
+soporte técnico;Soporte
+acceso planes clases;Soporte
+enrutamiento visibilidad servicio web;Redes y Telecomunicaciones
+validacion rango fecha periodo vigente;Desarrollo de Software
+reporte registro control asistencia;Desarrollo de Software
+reestructuracion función dias materias;Desarrollo de Software
+reporte sistema bibliotecario upse;Desarrollo de Software
+acceso sistemas internos;Soporte
+desempeño docente 2015-1;Soporte
+problemas equipo;Redes y Telecomunicaciones
+software control uso máquinas lab;Redes y Telecomunicaciones
+implementación triggers auditoria.-;Soporte
+laboratorios ciencias básicas upse;Soporte
+pagina ministerio trabajo;Redes y Telecomunicaciones
+revisión modulo registro calificaciones;Desarrollo de Software
+fw manuales guías uso.-;Soporte
+urgente nota;Soporte
+configuracion equipo;Soporte
+solicitud revisión pc;Redes y Telecomunicaciones
+cpu virus 001228;Redes y Telecomunicaciones
+corrección modulo gestor usuarios sist eval doc;Desarrollo de Software
+revisión lapto 001251;Soporte
+creación pantalla cambio clave;Soporte
+listado nomina estudiantes;Desarrollo de Software
+requerimiento playas;Desarrollo de Software
+recuperar clave acceso correo 001268;Soporte
+imprime impresora red;Soporte
+validación horario materia;Desarrollo de Software
+agradezco atención 001238;Soporte
+revisar avance académico biomar;Desarrollo de Software
+problema teclado;Soporte
+récord académico intranet;Soporte
+revisar situación estuadiante;Soporte
+bloqueo descargas aula virtual.-;Redes y Telecomunicaciones
+revisar sitio web crai;Redes y Telecomunicaciones
+problemas sistemas egresados;Soporte
+modelo consulta horario clase docente;Desarrollo de Software
+requerimiento ip pública nombre host;Soporte
+conectar 2 computadoras internet 001227;Soporte
+problemas silabus;Soporte
+conexión impresora;Redes y Telecomunicaciones
+ayuda favor 001217;Soporte
+requerimientos sistema relex;Desarrollo de Software
+inconvenientes sistema gestión docentes;Desarrollo de Software
+modificacion opcio nactividades docentes;Desarrollo de Software
+revisar docentes;Desarrollo de Software
+arreglo impresora;Soporte
+módulo inglés técnico;Soporte
+recuerdo clave usuario upse;Soporte
+internet mensaje error 001220;Soporte
+rv oficio enviado 327 biomar;Soporte
+archivo compartido agendar citas rectorado 001211;Soporte
+favor revisar aplicaciones web upse usuario;Desarrollo de Software
+informe acta entrega/recepción.-;Soporte
+activar subir bibliografia;Soporte
+problemas cubo datos;Desarrollo de Software
+problemas ejecucion carga cubos;Desarrollo de Software
+actualizar abobe flash;Redes y Telecomunicaciones
+recuerdo contraseña aplicativo upse;Soporte
+aparece ícono ingreso planes;Desarrollo de Software
+carga convenios;Soporte
+solicitud estudiante acta;Soporte
+verificación complementos office 365;Soporte
+karina bricio;Redes y Telecomunicaciones
+favor ayudar correo institucional- ciertos mensajes llegan;Soporte
+imprimir listado docentes.-;Soporte
+requerimiento inconveniente silabus;Desarrollo de Software
+instalar sistema desempeño docente;Desarrollo de Software
+buen día;Soporte
+capacitación moodle;Soporte
+cambios sistema;Soporte
+limpieza virus;Redes y Telecomunicaciones
+agregar paginacion bibliografias;Desarrollo de Software
+solicita persona compartir impresora;Redes y Telecomunicaciones
+equipo accede sistema operativo;Redes y Telecomunicaciones
+revisión máquina biomar;Desarrollo de Software
+visualiza periodo 2015-2;Desarrollo de Software
+rv requerimientos ...;Desarrollo de Software
+diseño interfaces registro asistencias;Desarrollo de Software
+cubo información matriculados 2015-1;Desarrollo de Software
+determinacion transaccionabilidad aplicacion;Desarrollo de Software
+instalacion programas;Soporte
+acceso aula virtual;Soporte
+acceso actividades complementarias;Desarrollo de Software
+asesoria herramienta mooble;Soporte
+modelo datos control asistencia est;Desarrollo de Software
+modificación gestor usuarios;Desarrollo de Software
+boton eliminar registro bibliografia;Desarrollo de Software
+seguimiento graduados;Soporte
+revisión navegador;Soporte
+sistema moodle;Desarrollo de Software
+agregar campo tipo bilbiografia;Desarrollo de Software
+problemas archivos word;Soporte
+record academico;Soporte
+soporte urgente docente upse;Desarrollo de Software
+puede cerrar reabrir silabos;Desarrollo de Software
+revisión cpu carrera electrónica telecomunicaciones;Redes y Telecomunicaciones
+usuario contraseña;Soporte
+requerimiento revisión dispositivos 001067;Soporte
+revisión certificados matriculas 001121;Soporte
+particionar discos duros laptos;Soporte
+apertura sistema;Soporte
+acceso internet;Redes y Telecomunicaciones
+materias inactivas;Soporte
+equipo problemas;Soporte
+modificar opcion generar syllabus;Desarrollo de Software
+proceso cierer syllabus;Desarrollo de Software
+ingreso sílabo;Soporte
+cable conector;Redes y Telecomunicaciones
+cables usb;Redes y Telecomunicaciones
+capacitación crear promociones;Soporte
+eliminación sylabus;Desarrollo de Software
+correo clave sisweb;Desarrollo de Software
+sisweb 001070;Soporte
+denominación asignatura;Soporte
+modificación syllabus 001099;Soporte
+revisar syllabus ingeniería civil;Soporte
+favor ayudar internet lento especialmente repositorio;Redes y Telecomunicaciones
+revisión plan analítico;Desarrollo de Software
+registro dedicacion docente 001073;Soporte
+asesoría plataforma mooble;Soporte
+activar syllabus gestión talento h;Soporte
+reportes graduados sistema sag;Desarrollo de Software
+visualizar columnas datos bibliografia;Desarrollo de Software
+rv acuerdos reunión trabajo día 20 octubre 2015.-;Soporte
+revisión equipo computacion secretaria;Redes y Telecomunicaciones
+reparación monitor;Redes y Telecomunicaciones
+syllabus sisweb;Soporte
+revisión habilitación impresoras;Redes y Telecomunicaciones
+problemas conectar red;Redes y Telecomunicaciones
+computadora prende;Redes y Telecomunicaciones
+visualiza graduados;Desarrollo de Software
+equipo computación virus;Soporte
+actualización antivirus problemas imprimir google chrome;Soporte
+registro docentes sistema egresados;Soporte
+silabo civil;Soporte
+clave acceso sisweb 001024;Soporte
+evaluación sistema graduados gestión proyectos vinculación clectividad;Desarrollo de Software
+verificación syllabus docentes;Desarrollo de Software
+impresora dañada;Redes y Telecomunicaciones
+registro promociones graduados;Soporte
+activación correo institucional linda nuñez;Soporte
+soldar conector audio 001091;Soporte
+ayuda sistema bodega;Soporte
+problemas introducir planes clase sistema;Desarrollo de Software
+revisión matriculados;Soporte
+docente nómina;Desarrollo de Software
+cedula incprrecta 000878;Soporte
+responder ingreso bibliografía anexos planes clase.- 001079;Soporte
+instalación sistemas académicos administrativ;Desarrollo de Software
+capacitación -plan clase;Soporte
+matricula duplicada;Soporte
+maquina bloqueada;Redes y Telecomunicaciones
+formateo cpu;Soporte
+reapertura syllabus;Desarrollo de Software
+solicitud ayuda control plan clases;Desarrollo de Software
+revisión equipo;Redes y Telecomunicaciones
+máquinas apuepse;Redes y Telecomunicaciones
+revisión planes clases periodo 2015-1;Soporte
+conexion red respaldo informacion;Redes y Telecomunicaciones
+proyectores imagen;Redes y Telecomunicaciones
+puede visualizar pagina iess;Redes y Telecomunicaciones
+problemas officce;Redes y Telecomunicaciones
+anulación módulo gino tomalá 000959;Soporte
+generacion actas;Soporte
+rv atención convenio aprobado.- compra;Soporte
+error licencia microsoft office;Soporte
+cpu 001044;Soporte
+docentes vinculación contabilidad auditoría;Soporte
+arreglar máquina nueva;Redes y Telecomunicaciones
+teclado averiado;Soporte
+responder ticket soporte abierto 000970 001027;Soporte
+procedimiento registro graduados mediante examen complexivo;Desarrollo de Software
+contraseña correo electronico upse 000940 001015;Soporte
+instalación sistemas;Desarrollo de Software
+mantenimiento cpu;Redes y Telecomunicaciones
+formateo equipo 000987;Soporte
+inconveniente reporte sistema vinculacion;Desarrollo de Software
+urgente ayudar internet biblioteca ciencias dar buen servicio estudiantes;Redes y Telecomunicaciones
+sistema vinculación colectividad archivos dañados;Redes y Telecomunicaciones
+revision cable infocus;Redes y Telecomunicaciones
+solicitudes varias;Desarrollo de Software
+pasaporte estudiante;Desarrollo de Software
+anteproyecto 1 pc aula.-;Soporte
+estación trabajo enciende;Soporte
+problema programa ushay;Soporte
+creacion correo;Soporte
+sala docentes sector u;Soporte
+instalar programa media playar;Redes y Telecomunicaciones
+obsolescencia equipo.-;Soporte
+ayudanos actas;Soporte
+revisión computadora;Redes y Telecomunicaciones
+punto corrient electrica;Redes y Telecomunicaciones
+visita tecnica;Soporte
+ficha socieconomica;Redes y Telecomunicaciones
+problemas internet;Soporte
+favor ayudar internet biblioteca ciencias lento;Redes y Telecomunicaciones
+requerimiento tecnico;Redes y Telecomunicaciones
+000943 confirmado;Soporte
+mouse dañado;Redes y Telecomunicaciones
+solicitud requerimiento;Redes y Telecomunicaciones
+desinstalación equipos lab 2 idiomas 000872;Soporte
+teclado mal funcionamiento;Soporte
+cambio denominación `` actividades complementarias '' .-;Soporte
+lista docentes ingresado sillabus;Soporte
+migración información estudiantes;Desarrollo de Software
+impresora 000946;Soporte
+corregir matrícula estudiante;Soporte
+reemplazo bateria hp;Redes y Telecomunicaciones
+problema cpu licencia office 000939;Soporte
+servidor tickets envía correos electrónicos.-;Redes y Telecomunicaciones
+distributivo carga horaria 2015-2 000913 000942;Soporte
+revisar máquina 000922;Soporte
+utilizar onedrive backup;Soporte
+problemas computador impresora 000936;Soporte
+lista estudiantes matriculados;Desarrollo de Software
+actualizaciòn conocimientos;Soporte
+ip 000904;Soporte
+sistema academico 000910;Soporte
+dedicacion 000893;Soporte
+instalación officce 2013;Soporte
+vamos transmitir acto mañana via on line;Redes y Telecomunicaciones
+control asistencia;Soporte
+faltan 3 estudiantes listados d primer semestre;Soporte
+solicitud arreglos sistemas planificación docente;Desarrollo de Software
+solicitud decanato facsistel;Soporte
+cambio carrera segun nuevo distributivo 2015-2;Soporte
+cambio normal homologación arriola;Soporte
+arreglo certificado matrícula;Soporte
+listados estudiantes primer semestre biomar 2015-ii;Soporte
+acceso internet naf revisión impresora 000826;Soporte
+problema usuario creado portatil depa;Soporte
+arreglo cable proporciona internet;Soporte
+mantenimiento sala profesores dep snna upse;Soporte
+habilitación computadora snna-upse;Soporte
+habilitación máquina nivelación ubicada sector i;Soporte
+actualización sistema encuestas;Soporte
+problema visualización calificaciones 000854;Soporte
+distributivo 2015-2;Soporte
+instalar proyector imagen ciencias agrarias;Redes y Telecomunicaciones
+soldar parlantes;Soporte
+problema imprimir;Soporte
+impresoras rectorado;Redes y Telecomunicaciones
+máquina infectada virus 000821;Soporte
+matriculas especiales;Soporte
+puntajes snna;Soporte
+conexión intenet;Redes y Telecomunicaciones
+inventario equipos salas postgrado;Soporte
+servicio técnico 000828;Soporte
+información requerida;Desarrollo de Software
+problemas maquina reemplazo;Soporte
+movimiento impresora.- 000852;Soporte
+editar dediccion;Soporte
+problemas computador.-;Soporte
+creacion modulo autofinanciado;Desarrollo de Software
+problemas subir sistema estudiantes 000772;Soporte
+cambio paralelo asignatura equiparacion;Soporte
+cambios paralelo;Soporte
+fw ayuda carrera petroleo;Soporte
+anular cupo;Soporte
+problemas pc 000718;Soporte
+ingresar valor costo repticion;Soporte
+respaldo nube;Desarrollo de Software
+habilitar página;Soporte
+requerimiento dr. rubira 000770 000792;Soporte
+corte servicio internet biblioteca.- 000817;Soporte
+instalación rack pared laboratorio 4;Soporte
+cambio clave red;Soporte
+solución ugenteeeeee;Soporte
+información docentes nacionales extranjero;Desarrollo de Software
+inconveniente navegador intenet;Desarrollo de Software
+aparece estudiante 000771;Soporte
+ticket 000771;Soporte
+mantenmimiento proyectores digitales;Soporte
+editar matricula;Soporte
+proyector dañado;Redes y Telecomunicaciones
+problemas conexión infocus;Redes y Telecomunicaciones
+servicio internet 000784;Soporte
+fallas portatil;Soporte
+equipamiento aulas postgrado;Soporte
+instalar impresora;Soporte
+solicita quitar clave equipo;Soporte
+atención red impresoras rectorado 000713;Soporte
+responder resoluciones ciencias agrarias 000763;Soporte
+instalación red rectorado;Redes y Telecomunicaciones
+solucionar problema impresora;Soporte
+requerimientos contabilidad auditoría;Soporte
+favor revisar máquina consulta estudiantes edificio 3;Soporte
+piden apoyo especialistas;Soporte
+sistema egresados biomar;Soporte
+cambio cable vga;Soporte
+problemas cargar páginas;Soporte
+ingreso calificaciones 000683;Soporte
+registro datos sustentación incorporación;Soporte
+rv creación correo institucionales 000526;Soporte
+asesoría matriculación estudianes;Soporte
+correo consultorio jurídico 000658 000661 000720;Soporte
+listado graduados 000257;Soporte
+información pata planificación;Desarrollo de Software
+clave email persiste error windows;Soporte
+registro datos graduación tesis;Soporte
+buen dia requiere personal venga revisar dar mantenimiento equipo computacion carrera administracion empresas;Soporte
+consulta 000732;Soporte
+revisión upss deteriorados alta capacidad;Soporte
+enciende cpu;Soporte
+revisión cambio estación trabajo 000722;Soporte
+grabar información;Desarrollo de Software
+biblioteca virtual;Soporte
+cambio mouse;Soporte
+cpu enfermeria problemas sistema academico;Soporte
+buenos dias compañeros favor necesito alguien venga revisar impresora vista puedo imprimir atención;Soporte
+instalación scanner 000478;Soporte
+revisión eliminación virus varios equipos incyt;Soporte
+problemas arranque sistema operativo;Soporte
+rv asignación usuario 000708;Soporte
+cambio banner;Soporte
+3 equipos computo listos;Redes y Telecomunicaciones
+revisión maquinas laboratorio postgrado;Soporte
+analisis cobertura red wifi;Soporte
+ravisión sala asignada ceaaces.-;Soporte
+nómina estudiantes admisión;Soporte
+configurar máquina 000643;Soporte
+ventana aviso;Soporte
+solicitud conexion impresora red;Soporte
+puedo acceder programas radio;Redes y Telecomunicaciones
+ingenier nesecito envie contraseña 000668;Soporte
+creación cursos ingeniería industrial;Desarrollo de Software
+rv creación cursos periodo 2015-2;Desarrollo de Software
+adjunto proyección distribución paralelos cpa;Desarrollo de Software
+carrera básica;Desarrollo de Software
+proyección aulas 2015-2;Desarrollo de Software
+rv aulas fcm- biomar;Soporte
+registros mas instituciones sistema relex;Desarrollo de Software
+problemas ingresar ver notas;Soporte
+cpu electrónica 000667 000686;Soporte
+cpu electrónica;Desarrollo de Software
+novedades información;Soporte
+problema estación trabajo;Soporte
+problema sistema informatico `` sicoplan '' unopac;Soporte
+activación acta estrategias evaluativas;Soporte
+caso específico cédula válida;Soporte
+falla sistema;Soporte
+solicito ticket problema word;Soporte
+restablecion clave;Soporte
+información docentes;Soporte
+visualizar notas;Soporte
+ticket soporte abierto 000660 resuelto;Soporte
+outlook recibe;Soporte
+problemas portatil 000632;Soporte
+creación punto red;Redes y Telecomunicaciones
+correo institucionales docentes;Soporte
+actualizacion office;Soporte
+mantenimiento hardware servidor incyt 000541;Soporte
+corregir habilitar;Soporte
+incluir mejoramiento materias;Soporte
+puedo abrir cuenta;Soporte
+reestauración contraseña;Soporte
+fw novedad ordeco 000338;Soporte
+rv ayuda tecnica sistema;Soporte
+contraseña perdida;Soporte
+correo bienestar universitario;Soporte
+cambios reportes plataforma snu;Soporte
+verificacion notas sistema;Soporte
+puedo ver notas;Soporte
+cambio información instalación sistemas académicos cambio claves;Soporte
+acceso denegado ingreso muestra calificaciones;Soporte
+activación cuenta;Soporte
+error sistema graduados;Desarrollo de Software
+sistema calificaciones estudiantiles;Soporte
+revisión información 000510;Soporte
+ayuda 000530;Soporte
+actualizacion formulario sistema planificaci;Desarrollo de Software
+datos alumnos;Soporte
+fallas sistema ingreso calificaciones;Soporte
+registro huella;Soporte
+undeliverable detalles encuesta guardada nivel satisfacción servicios bibliotecarios;Soporte
+acceso denegado;Soporte
+implementar encuesta servicios biblioteca 000531;Soporte
+clave favor;Soporte
+outlook funciona;Soporte
+maquina virus;Redes y Telecomunicaciones
+problema link unopac pagina web upse;Redes y Telecomunicaciones
+habilitar filezilla;Soporte
+unidad pasantías hotelería turismo 000509;Soporte
+olvide constraseña aplicacion;Soporte
+actas mejoramiento;Soporte
+reparar 2 impresoras;Soporte
+pedido 2;Soporte
+solicitud ticket;Redes y Telecomunicaciones
+incluir máquinas unopac dominio;Soporte
+programa nitro pro 9;Soporte
+virus informacion perdida;Soporte
+atención urgente;Soporte
+reenv error sistema;Soporte
+ficha estudiantes sistema académico;Soporte
+estimado marlon escribo comunicarte reunion efectuara lunes 17h00 junton petroleo;Soporte
+cuentas correo institucional biomar;Redes y Telecomunicaciones
+revisar aprobación asignatura;Soporte
+maquinas desconectadas red;Soporte
+asunto nómina correos institucionales estudiantes cpa;Soporte
+novedad sistema secretaria;Soporte
+monitor dañado 000490;Soporte
+puede imprimir red;Soporte
+fecha ingreso docente tomalá chavarría mónica;Soporte
+ingreso notas i ciclo;Soporte
+instalar aplicación video;Soporte
+acceso remoto servidor base datos;Soporte
+aula virtual caida.-;Soporte
+apago computador;Redes y Telecomunicaciones
+desconfigurado teclado;Soporte
+instalación router inalámbrico feue.-;Soporte
+ayuda elaboración correo masivo;Redes y Telecomunicaciones
+ayuda grabacion documentos;Soporte
+problemas virus 000469;Soporte
+sacar virus latop;Soporte
+colaboración puedo ingresar egresados cpa;Soporte
+agenda compartida comunicación;Soporte
+error actualizacion;Soporte
+radios motoralas;Redes y Telecomunicaciones
+reparacion equipo cigeo hp codigo 3306-3.2;Redes y Telecomunicaciones
+instalación antivirus.-;Soporte
+autoevaluacion estudiantes docentes;Soporte
+archivos digitales carrera desarrollo empresarial;Soporte
+problema impresora epson l210;Soporte
+actualizar pfd;Redes y Telecomunicaciones
+responder acceso denegado 000446;Soporte
+cotización movimiento fibra;Soporte
+central ip;Soporte
+fuente incendio;Redes y Telecomunicaciones
+puede acceder impresora;Soporte
+solicitud rangos ip 000315 000335;Soporte
+lista procesos pasar control usuario;Soporte
+novedades sistema académico;Soporte
+correos encontrados.-;Soporte
+asesoría pagina controlaría;Soporte
+problemas acceso server incyt.-;Soporte
+revisión legalidad documentos micrositio;Soporte
+oficio dirección administrativa;Soporte
+acceso sistema estudiantes primer semestre;Soporte
+creación clave director;Soporte
+capacitación sistema relext;Desarrollo de Software
+autoevaluación 2015-1;Desarrollo de Software
+maquina prende;Redes y Telecomunicaciones
+presenta problemas maquina;Redes y Telecomunicaciones
+reparar sistema audio lab idiomas;Soporte
+subir cambios servidor aplicaciones;Desarrollo de Software
+revisar internet lab idiomas;Redes y Telecomunicaciones
+problemas puede abrir correo;Soporte
+correos institucionales estudiantes docentes carrera contabilidad auditoría;Redes y Telecomunicaciones
+problemas aplicación actas consolidadas secretaría general 000209;Desarrollo de Software
+rv listado docentes 2015 2016;Soporte
+oficio lic manuel gonzález silvestre;Soporte
+urgente favor traer computadora;Soporte
+compartir impresora 000389;Soporte
+urgente -arreglar equipo activar nitro pro;Soporte
+información duplicada matrícula diferente;Soporte
+oficio circular.-;Soporte
+inconveniente 000304;Soporte
+creación cuentas investigadores incyt;Soporte
+revisión instalación red;Redes y Telecomunicaciones
+revisión activo fijo dar baja;Soporte
+estadísticas consulta equipos;Desarrollo de Software
+cambio configuracion router sala docentes;Soporte
+padrón upse;Desarrollo de Software
+probemas windows;Redes y Telecomunicaciones
+carrera ed parvularia 000153 000163 000187;Soporte
+carrera ed parvularia;Soporte
+pueden ingresar maquina 000364;Soporte
+arreglo número créditos;Soporte
+problema cuenta portatil;Soporte
+compartir archivos red;Soporte
+crear cta sistema bibliotecario correo institucional 000326;Soporte
+inconsistencia pares académicos;Desarrollo de Software
+soporte técnico 3 maquinas ..;Soporte
+instalacion verificacion crystal report;Soporte
+equipo utilizo apaga cada momento;Soporte
+reporta incoveniente notas;Soporte
+requerimiento información facultad sis;Soporte
+mantenimiento máquina directora;Soporte
+revisión pc idiomas;Soporte
+oficio rectorado;Soporte
+puesta línea micrositios.- 000269;Soporte
+bases datos 000313;Soporte
+implementación servidor dominio;Soporte
+evaluación docente;Soporte
+visita bodegas activo fijo;Soporte
+proyector prenden;Redes y Telecomunicaciones
+desinfectar equipos virus;Soporte
+cargador portátil;Soporte
+credenciales personal soporte;Soporte
+asignación privilegios.-;Soporte
+compartir informacion;Soporte
+oficio difusión cultural.-;Soporte
+problema navegador 000120;Soporte
+listar inquietudes procesos sistemas;Desarrollo de Software
+aplicaciones soporte windows 7;Desarrollo de Software
+cubo información unopac;Desarrollo de Software
+configurar proyector;Redes y Telecomunicaciones
+revision sistema proyectos vinculacion;Desarrollo de Software
+generación ticket 000247;Soporte
+problemas programa informático;Soporte
+arreglo revista digital;Redes y Telecomunicaciones
+solución inconsistencias materias;Desarrollo de Software
+cambiar oficio dirigido escuela sistema;Soporte
+equipo enciende;Soporte
+actualización repositorio dspace;Soporte
+lentitud internet;Soporte
+oficio requerimiento mantenimiento;Soporte
+incremento ram desarrolladores.-;Soporte
+estudiantes aparecen.-;Soporte
+configuración outlook relex 000169;Soporte
+creación mail upse;Soporte
+sistema vinculación;Desarrollo de Software
+adecuaciones red;Soporte
+asistencia sistema registro calificac;Soporte
+puede ingresar clave;Soporte
+sistema nivelación admisión;Desarrollo de Software
+retiro acceso.-;Soporte
+cable 000176;Soporte
+restringir accesos sistema biblioteca 000184;Soporte
+computador enciende muestra imagen;Soporte
+segundo pedido 000155;Soporte
+listado alumnos deben;Soporte
+cable fuente poder;Redes y Telecomunicaciones
+sincronización calendario;Redes y Telecomunicaciones
+equipo incyt;Soporte
+problema instalacion dropbox;Soporte
+solicitud 000022;Soporte
+oficio jefe activos fijos.-;Soporte
+instalación máquinas virtuales;Soporte
+asignación ip equipo informática 000181;Soporte
+planificacion docente;Soporte
+maquina nucleo apoyo fiscal contable;Redes y Telecomunicaciones
+configuración registros dfe asistencia;Soporte
+capacitación uso calendario office;Soporte
+revisión modelo datos jennifer suárez;Soporte
+revisión modelo datos walter panchana;Soporte
+capacitación acceder correo;Soporte
+restaurar clave correo institucional;Soporte
+claves acceso;Soporte
+revisión modelo datos viviana malave;Soporte
+cambio asignaciones 000104 000157;Soporte
+revision virus;Soporte
+restaurar clave;Soporte
+sistemas registro clases;Soporte
+sistema plan clase;Soporte
+revisar laboratorio nivelacion;Soporte
+optimizar información sistemas web;Desarrollo de Software
+configuración impresora 000083;Soporte
+problemas servicio internet dede pc;Soporte
+terminales convenio sri;Soporte
+cambio materia verificacion estu;Soporte
+información nivelación senescyt;Soporte
+puede abrir navegador;Soporte
+errores envío correo.-;Soporte
+biometrico 000097;Soporte
+estadística repetición arrastre 000020;Soporte
+cable fibra óptica laboratorio postgrado;Soporte
+biblioteca ciencias marinas;Soporte
+corrección nombre;Soporte
+capacitación 000066;Soporte
+actualización información;Redes y Telecomunicaciones
+ingreso nota módulo 1 inglés;Soporte
+2 proyectores adm. empr;Soporte
+configuración bases datos desarrollo;Desarrollo de Software
+solicitud activación opciones sistema académico;Soporte
+equipo virus 000036;Soporte
+claves acceso ing freddy villao 000018;Soporte
+señal inalmabrica;Soporte
+requiere solución problema licencia window;Soporte
+aula virtual caída fin semana;Soporte
+instalación configuración emails;Soporte
+registro nuevas empresas;Soporte
+envío blade reparar;Soporte
+consulta microsoft;Soporte
+oficio vicerrectorado académico.-;Soporte
+reinicio clave correo electrónico;Soporte
+conbinación correspondencia;Soporte
+creación usuario;Soporte
+visualización items sistema plan clase;Desarrollo de Software
+apertura sistema registro notas;Soporte
+existen cables cruzados manera peligrosa;Redes y Telecomunicaciones
+requiere cambio contraseña correo.-;Soporte
